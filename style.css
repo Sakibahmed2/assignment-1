@@ -87,9 +87,9 @@ main{
     margin-top: 25px;
     line-height: 22px;
     list-style:  url('images/right.jpg') ;
-    
+    line-height: 25px;
 }
-/* list-style: url('/media/examples/rocket.svg'); */
+
 
 /* About me secton styles */
 
@@ -251,6 +251,7 @@ input{
     border: 1px solid white;
     border-radius: 5px;
     height: 40px;
+    width: 180px;
     margin-top: 20px;
 }
 .subscribe .primary-btn{
